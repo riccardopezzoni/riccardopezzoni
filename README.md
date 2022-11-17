@@ -1,4 +1,4 @@
-### Hi, I am Ricccardo 👋
+### Hi, I am Riccardo 👋
 
 ##### 🎓  MSc Student, Bachelor in Computer Science engineering at [Politecnico di Milano](https://www.polimi.it/en)
 ##### 👨🏻‍💻 Languages and Tools:
