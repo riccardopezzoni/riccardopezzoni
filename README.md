@@ -1,6 +1,6 @@
 ### Hi, I am Riccardo 👋
 
-##### 💼  Data Engineer at [Quantyca](https://www.quantyca.it/en/home-en/)
+##### 💼  Software Engineer
 ##### ⛺️  Co-founder of [Wildhood](https://www.wildhood.app)
 ##### 🎓  MSc in Telecommunication and Computer Science engineering at [Politecnico di Milano](https://www.polimi.it/en)
 ##### 👨🏻‍💻 Languages and Tools:
