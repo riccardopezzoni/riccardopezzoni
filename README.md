@@ -1,6 +1,6 @@
 ### Hi, I am Riccardo 👋
 
-##### 💼  Software Engineer
+##### 💼  Software Engineer at [Satispay](https://www.satispay.com)
 ##### ⛺️  Co-founder of [Wildhood](https://www.wildhood.app)
 ##### 🎓  MSc in Telecommunication and Computer Science engineering at [Politecnico di Milano](https://www.polimi.it/en)
 ##### 👨🏻‍💻 Languages and Tools:
